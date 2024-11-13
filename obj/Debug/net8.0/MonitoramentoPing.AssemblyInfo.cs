@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MonitoramentoPing")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+111b08bd1f7db2817e504aa99908e84ca34dee7c")]
 [assembly: System.Reflection.AssemblyProductAttribute("MonitoramentoPing")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MonitoramentoPing")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
