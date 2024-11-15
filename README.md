@@ -9,7 +9,7 @@
 
 ![Captura de tela 2024-11-15 151307](https://github.com/user-attachments/assets/caa0f37a-5be6-4893-aff5-02919b923241)
 
-<div style="justify-content: space-between;">  <h1> executando o Código </h1>  <img src="https://github.com/user-attachments/assets/30e4d5e6-0e1b-41ee-97ee-170724ca7d9d" width="50"> </div>
+## Executando o Código
 
 
 <p> <h3>1.</h3> Copie o Código para a sua maquina </p>
